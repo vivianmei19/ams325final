@@ -2,7 +2,8 @@
 Comprehensive Prediction of Titanic Survival Using All Relevant Factors
 
 Authors: Vivian Mei, Meng Li, Xiaolin Huang
-Course: AMS 325 Final Project
+
+
 Introduction
 
 The Titanic, famously dubbed the "unsinkable" ship, tragically sank during her maiden voyage after colliding with an iceberg. With insufficient lifeboats for all 2,224 passengers and crew, 1,502 lives were lost. This project explores the factors influencing survival beyond mere chance, leveraging machine learning to analyze data from the Titanic passenger manifest. Our analysis incorporates variables such as age, gender, ticket class, fare, and familial relationships, aiming to uncover patterns in survival probabilities.
