@@ -9,7 +9,8 @@ Introduction
 The Titanic, famously dubbed the "unsinkable" ship, tragically sank during her maiden voyage after colliding with an iceberg. With insufficient lifeboats for all 2,224 passengers and crew, 1,502 lives were lost. This project explores the factors influencing survival beyond mere chance, leveraging machine learning to analyze data from the Titanic passenger manifest. Our analysis incorporates variables such as age, gender, ticket class, fare, and familial relationships, aiming to uncover patterns in survival probabilities.
 
 Through this project, we aim to bridge historical analysis with data science, offering insights into social, economic, and gender dynamics in survival scenarios.
-Expected Outcomes
+
+**Expected Outcomes**
 
     Accurate Prediction Model:
         Build a machine learning model capable of predicting Titanic passenger survival with at least 80% accuracy.
@@ -20,8 +21,9 @@ Expected Outcomes
     Comprehensive Report:
         Summarize predictions, analyses, and findings in a final project report.
 
-Hypothesis: Age and socioeconomic status will have the most significant impact on survival rates, reflecting historical priorities during evacuation efforts.
-Dataset
+**Hypothesis**: Age and socioeconomic status will have the most significant impact on survival rates, reflecting historical priorities during evacuation efforts.
+
+**Dataset**
 
 We will use the publicly available Titanic dataset from Kaggle, which includes:
 
